@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/CARBOX_app/static/css/main.f855e6bc.css",
-    "main.js": "/CARBOX_app/static/js/main.069c4a73.js",
-    "static/js/453.e33590cd.chunk.js": "/CARBOX_app/static/js/453.e33590cd.chunk.js",
-    "static/media/logo.svg": "/CARBOX_app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/CARBOX_app/index.html",
-    "main.f855e6bc.css.map": "/CARBOX_app/static/css/main.f855e6bc.css.map",
-    "main.069c4a73.js.map": "/CARBOX_app/static/js/main.069c4a73.js.map",
-    "453.e33590cd.chunk.js.map": "/CARBOX_app/static/js/453.e33590cd.chunk.js.map"
+    "main.css": "/CARBOX_app_try/static/css/main.f855e6bc.css",
+    "main.js": "/CARBOX_app_try/static/js/main.496a4bdc.js",
+    "static/js/453.e33590cd.chunk.js": "/CARBOX_app_try/static/js/453.e33590cd.chunk.js",
+    "static/media/logo.svg": "/CARBOX_app_try/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/CARBOX_app_try/index.html",
+    "main.f855e6bc.css.map": "/CARBOX_app_try/static/css/main.f855e6bc.css.map",
+    "main.496a4bdc.js.map": "/CARBOX_app_try/static/js/main.496a4bdc.js.map",
+    "453.e33590cd.chunk.js.map": "/CARBOX_app_try/static/js/453.e33590cd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.069c4a73.js"
+    "static/js/main.496a4bdc.js"
   ]
 }
